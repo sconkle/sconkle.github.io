@@ -1,12 +1,11 @@
-## Welcome to the shitshow
+## Welcome to my Personal Page!
 
-You can use the [editor on GitHub](https://github.com/sconkle/sconkle.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here you can find images and links to personal and professional projects that I have been apart of, as well as learn more about me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+I am a 22 year old recent graduate of Purdue University. I got my B.S. in Aeronautical and Astronautical Engineering and was a Presidential Scholarship Recipient all 4 years I attended Purdue. At Purdue I was a 3 year Resident Assistant at Cary Quadrangle, the largest all male residence hall on campus. My responsibilites as an RA included creating a welcoming and open floor community for the primarily first year residents and help them get adapted to college life and education. I was also responsible for upholding policy on the floor and ensuring physcial and emotional safety of all my residents. I was also involed in the Purdue Running Club and Purdue Orbital, a student ran rocketry orgnaiztion with the goal of launching a balloon/rocket hybrid payload into orbit. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 Syntax highlighted code block
 
