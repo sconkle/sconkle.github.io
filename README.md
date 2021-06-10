@@ -9,7 +9,7 @@ I graduated in May 2021 from Purdue University with a B.S. in Aeronautical and A
 ## Links 
 [LinkedIn](https://www.linkedin.com/in/sam-conkle-a8556b196/)
 
-[Resume](https://github.com/sconkle/sconkle.github.io/blob/main/Resume-pages-1.pdf)
+[Resume](https://sconkle.github.io/Resume-pages-1.pdf)
 ## Personal Projects 
 
 ## Professional Projects 
