@@ -13,7 +13,7 @@ I graduated in May 2021 from Purdue University with a B.S. in Aeronautical and A
 ## Personal Projects 
 
 ## Professional Projects 
-[Senior Design](https://sconkle.github.io/Senior-Design-Project.md)
+[Senior Design](https://sconkle.github.io/Senior-Design-Project)
 # Header 1
 ## Header 2
 ### Header 3
