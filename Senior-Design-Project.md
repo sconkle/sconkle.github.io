@@ -14,4 +14,5 @@ The majority of my work was done with the Human Factors subteam, who were respon
 Finally, my subteam was responsible for creating the final video to be shown to our customers. In order to do this, we used Blender to animate our 3D models that we had made over the semester to help demonstrate how each system worked to customers and others who are unfamiliar with the project. Below you can find images to models I made, links to my final animation, and a link to the class website of the project.  
 
 [Project Website](https://engineering.purdue.edu/AAECourses/aae450/2021/Spring2021/index_html/)
+
 [My Animations for the Final Video](https://www.youtube.com/watch?v=UfmDav9FOnI)
