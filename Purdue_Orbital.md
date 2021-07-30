@@ -10,5 +10,5 @@ This circuit became known as the Quick Deflation Method, or QDM for short. The Q
 
 [Subteam Overview] 
 
-[Testing Document Example (Avionics)](https://sconkle.github.io/avionics)
+[Testing Document Example (Avionics)](https://sconkle.github.io/avionics.pdf)
 
