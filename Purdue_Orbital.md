@@ -8,7 +8,7 @@ This circuit became known as the Quick Deflation Method, or QDM for short. The Q
 
 [Organization Website](https://www.purdueorbital.com/)
 
-[Subteam Overview] 
+[Subteam Overview](https://sconkle.github.io/Design-and-Manufacturing.pdf) 
 
 [Testing Document Example (Avionics)](https://sconkle.github.io/avionics.pdf)
 
