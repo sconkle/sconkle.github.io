@@ -17,4 +17,4 @@ I graduated in May 2021 from Purdue University with a B.S. in Aeronautical and A
 
 [Purdue Orbital](https://sconkle.github.io/Purdue_Orbital)
 
-[Research Project]((https://sconkle.github.io/Research-Project)
+[Research Project](https://sconkle.github.io/Research-Project)
