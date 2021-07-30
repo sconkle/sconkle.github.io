@@ -6,9 +6,9 @@ Purdue Orbital's multidisciplinary team took on all aspects necessary to help re
 
 This circuit became known as the Quick Deflation Method, or QDM for short. The QDM circuit operated on a dead man's switch that would automatically trigger if communication from the ground station to the rockoon was lost for 2 minutes. Upon this loss of signal, the QDM circuit would activate a spring loaded nichrome 'guillotine' that would superheat and cut through the rope holding the launch structure and rocket to the weather balloon. This would allow a drogue chute to deploy and bring the launch structure back down to ground safely. During the process of building and testing this circuit, I also took on the role of Orbital's Testing Engineer. In this role, I designed safe and effective testing procedures to ensure subsystems were functioning correctly and all deliverables for a certain subsystem were being met. After designing these tests and creating necessary documentation, I would oversee these tests to make sure we were getting the data we needed and that proper safety measures were being followed. Before the start of the pandemic, we had a successful static launch of our rocket from beneath our launch structure, helping us get closer to realizing our final goal of getting to space.  
 
-[Organization Website] (https://www.purdueorbital.com/)
+[Organization Website](https://www.purdueorbital.com/)
 
 [Subteam Overview] 
 
-[Testing Document Example (Avionics)]
+[Testing Document Example (Avionics)](https://sconkle.github.io/avionics)
 
