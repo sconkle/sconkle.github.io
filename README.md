@@ -13,7 +13,7 @@ I graduated in May 2021 from Purdue University with a B.S. in Aeronautical and A
 ## Personal Projects 
 [Telescope](https://sconkle.github.io/telescope)
 
-[Matlab Music Maker]
+[Matlab Music Maker](https://sconkle.github.io/Matlab-Music)
 
 ## Professional Projects 
 [Purdue Orbital](https://sconkle.github.io/Purdue_Orbital)
