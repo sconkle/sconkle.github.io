@@ -16,12 +16,11 @@ I graduated in May 2021 from Purdue University with a B.S. in Aeronautical and A
 [Matlab Music Maker]
 
 ## Professional Projects 
-[AAE 550 Final Project](https://sconkle.github.io/aae550)
-
-[Archival Research Project](https://sconkle.github.io/Research-Project)
-
 [Purdue Orbital](https://sconkle.github.io/Purdue_Orbital)
 
 [Senior Design](https://sconkle.github.io/Senior-Design-Project)
 
+[AAE 550 Final Project](https://sconkle.github.io/aae550)
+
+[Archival Research Project](https://sconkle.github.io/Research-Project)
 
