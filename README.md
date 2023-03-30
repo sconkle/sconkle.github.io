@@ -11,7 +11,7 @@ I've spent the last ~2 years working at Empirical Systems Aerospace, a small ele
 ## Links 
 [LinkedIn](https://www.linkedin.com/in/sam-conkle-a8556b196/)
 
-[Resume](https://sconkle.github.io/Resume (1).pdf)
+[Resume](https://sconkle.github.io/Resume-2023.pdf)
 ## Personal Projects 
 [Telescope](https://sconkle.github.io/telescope)
 
